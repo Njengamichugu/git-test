@@ -1,0 +1,1 @@
+This is Njenga's first git project!
